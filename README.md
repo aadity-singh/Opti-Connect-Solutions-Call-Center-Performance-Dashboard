@@ -94,6 +94,3 @@ Call-Center-Dashboard/
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Call-Center-Dashboard.git
-
-
-## 🗂 Project Structure
